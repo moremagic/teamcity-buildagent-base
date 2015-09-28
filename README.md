@@ -1,3 +1,5 @@
 # teamcity-buildagent-base
-TeamCityサーバから AgentをPushできるコンテナ。
-
+TeamCityサーバから AgentをPushできるコンテナ。  
+  
+  # docker run -d -P moremagic/teamcity-buildagent-base  
+  
